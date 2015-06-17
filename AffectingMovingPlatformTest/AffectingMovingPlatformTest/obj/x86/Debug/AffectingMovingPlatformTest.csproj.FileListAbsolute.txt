@@ -1,0 +1,64 @@
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Player\PlayerSpreadsheet.xnb
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\AffectingMovingPlatformTest.exe
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\AffectingMovingPlatformTest.pdb
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Lidgren.Network.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.exe
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.exe
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Player\PlayerSpreadsheet.xnb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Platforms\BasicPlatformTexure.xnb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Player\PlayerSpreadsheet.png
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Platforms\BasicPlatformTexure.bmp
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\AffectingMovingPlatformTest.exe
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\AffectingMovingPlatformTest.pdb
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\IgnoreMe.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Lidgren.Network.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Hannes\Documents\My Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\obj\x86\Debug\AffectingMovingPlatformTest.csprojResolveAssemblyReference.cache
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Player\PlayerSpreadsheet.png
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Platforms\BasicPlatformTexure.bmp
+C:\Users\Hannes\Dropbox\Public\Ämnen\Programmering\AffectingMovingPlatformTest\AffectingMovingPlatformTest\bin\Windows\Debug\Content\Images\Platforms\BasicPlatformTexure.xnb
